@@ -3,6 +3,12 @@
 Qt Version:
   5.12
 
+IDE:
+  Qt Creator 4.8
+  
+OS:
+  MacOS Mojave 10.14
+
 Resource: 
   Vedio: https://www.bilibili.com/video/av10620553
 
